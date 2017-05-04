@@ -1,0 +1,442 @@
+Query seq,Query length (nt),Hit HOT,Hit HOMD seq name,HOMD clone name,Identities (%),Mismatch,Identities (no gaps & non-AGCTU)(%),Mismatch (no gaps & non-AGCTU),Score (bits),Query Start,Subject Start,Query End,Subject End
+15,300,023,023_0186 ,Delftia acidovorans | HOT_023 | Strain_MBIC 1305 | GB_AB020186 | Named | G | 2,95.6,13/298,95.6,13/298,479,1,305,298,602
+23,300,022,022_3223 ,Lautropia mirabilis | HOT_022 | Strain_Fredericksen | GB_X73223 | Named | G | 5,81.3,56/299,83.2,49/292,275,1,307,295,602
+37,300,547,547_6490 ,Porphyromonas asaccharolytica | HOT_547 | Strain_ATCC 25260 | GB_L16490 | Named | G | 0,100,0/31,100,0/31,57.2,230,747,260,777
+39,239,827,827_7604 ,Yersinia pestis | HOT_827 | Strain_not listed | GB_L37604 | Named | G | 0,82.5,42/240,84.3,37/235,226,1,313,237,550
+64,242,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,176,787,202,813
+68,243,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.4,4/243,98.4,4/243,421,1,312,243,554
+80,300,633,633_5014 ,Cardiobacterium hominis | HOT_633 | Strain_ATCC 16826 | GB_M35014 | Named | G | 4,87.9,36/298,88.2,35/297,372,1,309,298,605
+107,300,634,634_3890 ,Enterobacter hormaechei | HOT_634 | Strain_DSMZ 16691 | GB_AJ853890 | Named | G | 1,97.7,7/300,97.7,7/300,509,1,313,300,612
+142,300,711,711_5304 ,Moraxella osloensis | HOT_711 | Strain_Ben 58 | GB_X95304 | Named | G | 2,100,0/300,100,0/300,542,1,303,300,602
+202,245,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/245,100,0/245,443,1,311,245,555
+348,277,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/277,99.6,1/277,495,1,279,277,555
+355,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,94.3,17/300,94.3,17/300,464,1,281,300,580
+423,283,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/283,97.2,8/283,475,1,281,283,563
+427,282,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/282,97.2,8/282,473,1,281,282,562
+560,246,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+561,245,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+562,247,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+564,248,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+565,249,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+605,275,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+606,276,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+645,248,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/248,97.2,7/248,416,1,281,248,528
+654,247,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/247,97.2,7/247,414,1,281,247,527
+697,275,189,189AW006 ,Kocuria sp. | HOT_189 | Clone_AW006 | GB_AF385532 | Phylotype | X | 0,96.7,9/269,96.7,9/269,444,1,313,269,581
+702,277,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,96.8,9/277,96.8,9/277,459,1,312,277,588
+742,236,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/236,100,0/236,426,1,281,236,516
+747,235,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/235,100,0/235,425,1,281,235,515
+751,236,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/236,99.6,1/236,421,1,281,236,516
+753,235,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/235,99.6,1/235,419,1,281,235,515
+1009,300,477,477_3219 ,Pseudomonas stutzeri | HOT_477 | Strain_KC | GB_AF063219 | Named | G | 2,98,6/300,98,6/300,515,1,307,300,606
+1083,272,928,928W2231 ,Gemella sp. | HOT_928 | Strain_W2231 | GB_tbd | Unnamed | G | 2,100,0/30,100,0/30,55.4,170,760,199,789
+1084,271,928,928W2231 ,Gemella sp. | HOT_928 | Strain_W2231 | GB_tbd | Unnamed | G | 2,100,0/30,100,0/30,55.4,170,760,199,789
+1087,272,928,928W2231 ,Gemella sp. | HOT_928 | Strain_W2231 | GB_tbd | Unnamed | G | 2,100,0/30,100,0/30,55.4,170,760,199,789
+1118,300,408,408_8636 ,Acinetobacter sp. | HOT_408 | Clone_C4AKM094 | GB_AY278636 | Phylotype | X | 1,97.7,7/300,97.7,7/300,509,1,307,300,606
+1119,300,071,071_7062 ,Streptococcus tigurinus | HOT_071 | Clone_P4PA_13 | GB_AY207062 | Named | G | 6,100,0/300,100,0/300,542,1,319,300,618
+1223,241,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/241,99.6,1/241,430,1,281,241,521
+1227,239,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/239,100,0/239,432,1,281,239,519
+1228,240,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/240,100,0/240,434,1,281,240,520
+1233,240,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/240,99.6,1/240,428,1,281,240,520
+1234,239,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/239,99.6,1/239,426,1,281,239,519
+1235,240,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.5,6/240,97.5,6/240,407,1,281,240,520
+1316,280,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,24/281,92.1,22/279,392,1,313,280,592
+1439,280,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/280,100,0/280,506,1,313,280,592
+1442,279,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/279,100,0/279,504,1,313,279,591
+1491,300,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,89.3,32/300,89.3,32/300,398,1,310,300,609
+1494,300,319,319AY017 ,Bergeyella sp. | HOT_319 | Clone_AY017 | GB_AF385544 | Phylotype | X | 0,94.7,16/300,94.7,16/300,470,1,307,300,606
+1739,300,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/300,100,0/300,542,1,311,300,610
+1740,268,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/268,100,0/268,484,1,311,268,578
+1744,280,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/280,100,0/280,506,1,311,280,590
+1791,237,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,92.8,17/237,92.8,17/237,351,1,310,237,546
+1792,235,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.3,4/235,98.3,4/235,407,1,312,235,546
+1797,235,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/235,99.6,1/235,419,1,279,235,513
+1999,247,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/247,100,0/247,446,1,281,247,527
+2002,249,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/249,100,0/249,450,1,281,249,529
+2004,248,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/248,100,0/248,448,1,281,248,528
+2039,221,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/221,97.3,6/221,372,1,281,221,501
+2051,220,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/220,97.3,6/220,370,1,281,220,500
+2052,220,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.4,19/221,92.2,17/219,306,1,314,220,533
+2062,233,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.9,24/238,93.4,15/229,307,1,303,231,538
+2065,221,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/221,100,0/221,399,1,311,221,531
+2078,234,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,97.4,6/234,97.4,6/234,396,1,310,234,543
+2088,227,932,932_4648 ,Kingella sp. | HOT_932 | Clone_ELU0155-000287 | GB_HQ804648 | Phylotype | X | 3,100,0/29,100,0/29,53.6,126,754,154,782
+2118,220,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/220,100,0/220,398,1,313,220,532
+2132,221,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/221,100,0/221,399,1,313,221,533
+2375,289,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/289,99.7,1/289,517,1,281,289,569
+2380,291,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/291,99.7,1/291,520,1,281,291,571
+2381,291,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/291,100,0/291,526,1,281,291,571
+2443,292,683,683_8147 ,Simonsiella muelleri | HOT_683 | Strain_ATCC29453T | GB_AF328147 | Named | G | 4,93.4,19/290,93.4,19/290,437,1,315,290,604
+2470,240,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.5,26/247,92.9,17/238,315,1,303,240,547
+2471,239,928,928W2231 ,Gemella sp. | HOT_928 | Strain_W2231 | GB_tbd | Unnamed | G | 2,100,0/30,100,0/30,55.4,170,760,199,789
+2474,239,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,173,787,199,813
+2536,238,894,894Wade2 ,Ottowia sp. | HOT_894 | Clone_BL117 | GB_JQ406530 | Unnamed | G | 4,94.6,13/239,95.4,11/237,365,1,305,238,542
+2739,240,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.5,6/240,97.5,6/240,407,1,307,240,546
+2811,260,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,96.5,9/260,96.5,9/260,428,1,310,260,569
+2813,300,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.3,33/307,91.9,24/298,390,1,303,300,607
+2814,300,321,321AZ123 ,Pedobacter sp. | HOT_321 | Clone_AZ123 | GB_AF385549 | Phylotype | X | 0,96.7,10/300,96.7,10/300,497,1,310,300,609
+2881,240,007,007_3452 ,Porphyrobacter tepidarius | HOT_007 | Strain_4b | GB_AJ223452 | Named | X | 2,98.8,3/240,98.8,3/240,419,1,282,240,521
+2947,274,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,176,787,202,813
+2968,267,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/267,99.6,1/267,477,1,279,267,545
+3038,300,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.3,2/293,99.3,2/293,520,1,279,293,571
+3042,294,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.3,2/293,99.3,2/293,520,1,279,293,571
+3050,278,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.1,8/278,97.1,8/278,466,1,281,278,558
+3053,279,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.1,8/279,97.1,8/279,468,1,281,279,559
+3055,281,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/281,97.2,8/281,471,1,281,281,561
+3056,280,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.1,8/280,97.1,8/280,470,1,281,280,560
+3075,265,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,7/265,97.4,7/265,446,1,281,265,545
+3081,266,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,7/266,97.4,7/266,448,1,281,266,546
+3110,299,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,9/299,97,9/299,499,1,281,299,579
+3111,298,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,9/298,97,9/298,497,1,281,298,578
+3114,300,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,98.3,5/300,98.3,5/300,518,1,281,300,580
+3135,242,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.8,20/243,92.5,18/241,342,1,314,242,555
+3136,240,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,92.1,19/239,92.8,17/237,338,1,314,238,551
+3138,241,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.7,20/242,92.5,18/240,340,1,314,241,554
+3139,239,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,92.1,19/239,92.8,17/237,338,1,314,238,551
+3156,241,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/241,100,0/241,435,1,313,241,553
+3157,239,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/239,100,0/239,432,1,313,239,551
+3159,240,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/240,100,0/240,434,1,313,240,552
+3160,242,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/242,100,0/242,437,1,313,242,554
+3175,278,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3176,281,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3177,279,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3178,280,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3179,277,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3194,263,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+3218,251,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/251,97.2,7/251,421,1,281,251,531
+3221,250,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/250,97.2,7/250,419,1,281,250,530
+3237,243,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/243,97.1,7/243,407,1,281,243,523
+3238,245,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/245,97.1,7/245,410,1,281,245,525
+3240,244,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/244,97.1,7/244,408,1,281,244,524
+3264,238,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/238,99.6,1/238,425,1,281,238,518
+3265,237,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/237,99.6,1/237,423,1,281,237,517
+3280,238,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/238,100,0/238,430,1,281,238,518
+3281,237,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/237,100,0/237,428,1,281,237,517
+3299,300,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.7,7/300,97.7,7/300,509,1,307,300,606
+3303,294,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.6,7/294,97.6,7/294,499,1,307,294,600
+3304,298,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.7,7/298,97.7,7/298,506,1,307,298,604
+3314,246,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/246,100,0/246,444,1,307,246,552
+3315,245,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/245,100,0/245,443,1,307,245,551
+3316,251,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/251,100,0/251,453,1,307,251,557
+3325,300,601,601_3363 ,Staphylococcus epidermidis | HOT_601 | Strain_ATCC 14990 | GB_D83363 | Named | G | 3,100,0/300,100,0/300,542,1,320,300,619
+3329,300,601,601_3363 ,Staphylococcus epidermidis | HOT_601 | Strain_ATCC 14990 | GB_D83363 | Named | G | 3,99,3/300,99,3/300,527,1,320,300,619
+3362,294,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/294,100,0/294,531,1,307,294,600
+3364,292,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/292,100,0/292,527,1,307,292,598
+3365,290,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/290,100,0/290,524,1,307,290,596
+3442,251,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/251,100,0/251,453,1,313,251,563
+3444,246,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/246,100,0/246,444,1,313,246,558
+3465,246,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.9,20/246,92.6,18/244,347,1,314,245,558
+3480,242,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/242,100,0/242,437,1,281,242,522
+3481,241,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/241,100,0/241,435,1,281,241,521
+3498,252,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,92.1,20/252,92.8,18/250,358,1,313,251,563
+3560,298,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.3,26/299,91.9,24/297,416,1,313,298,610
+3561,299,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.3,26/300,91.9,24/298,417,1,313,299,611
+3586,263,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+3587,261,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+3588,262,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+3604,240,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.3,4/240,98.3,4/240,416,1,312,240,551
+3605,239,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.3,4/239,98.3,4/239,414,1,312,239,550
+3613,278,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/278,100,0/278,502,1,313,278,590
+3614,277,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/277,100,0/277,500,1,313,277,589
+3631,263,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/263,100,0/263,475,1,313,263,575
+3632,260,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/260,100,0/260,470,1,313,260,572
+3669,300,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/300,100,0/300,542,1,313,300,612
+3671,299,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/299,100,0/299,540,1,313,299,611
+3672,298,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/298,100,0/298,538,1,313,298,610
+3674,296,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/296,100,0/296,535,1,313,296,608
+3698,235,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,97.4,6/235,97.4,6/235,398,1,310,235,544
+3699,237,933,933_3217 ,Pedobacter sp. | HOT_933 | Clone_nbu291f04c1 | GB_GQ023217 | Phylotype | X | 0,97.5,6/237,97.5,6/237,401,1,310,237,546
+3717,237,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.3,26/244,92.8,17/235,309,1,303,237,544
+3718,235,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.9,24/238,93.4,15/229,307,1,303,231,538
+3719,236,833,833_0876 ,Moraxella catarrhalis | HOT_833 | Strain_ATCC 25238 | GB_U10876 | Named | G | 1,89.9,24/238,93.4,15/229,307,1,303,231,538
+3740,237,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/237,99.6,1/237,423,1,279,237,515
+3741,238,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/238,99.6,1/238,425,1,279,238,516
+3744,236,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/236,99.6,1/236,421,1,279,236,514
+3764,236,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/234,97.4,6/234,396,1,281,234,514
+3766,238,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/238,97.1,7/238,398,1,281,238,518
+3767,237,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,7/237,97,7/237,396,1,281,237,517
+3768,237,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,96.6,8/237,96.6,8/237,392,1,281,237,517
+3769,236,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,7/234,97,7/234,390,1,281,234,514
+3795,235,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/234,97.4,6/234,396,1,281,234,514
+3798,235,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,7/234,97,7/234,390,1,281,234,514
+3812,245,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/245,100,0/245,443,1,281,245,525
+3815,243,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/243,100,0/243,439,1,281,243,523
+3817,246,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/246,100,0/246,444,1,281,246,526
+3819,244,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/244,100,0/244,441,1,281,244,524
+3844,251,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/251,99.6,1/251,448,1,281,251,531
+3846,250,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/250,100,0/250,452,1,281,250,530
+3847,251,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/251,100,0/251,453,1,281,251,531
+3912,229,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/229,100,0/229,414,1,311,229,539
+3942,224,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,100,0/224,100,0/224,405,1,279,224,502
+3946,227,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,100,0/227,100,0/227,410,1,279,227,505
+4011,225,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/225,97.3,6/225,379,1,281,225,505
+4018,228,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/228,97.4,6/228,385,1,281,228,508
+4065,221,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.5,1/221,99.5,1/221,394,1,281,221,501
+4066,221,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/221,100,0/221,399,1,281,221,501
+4088,231,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.3,4/231,98.3,4/231,399,1,312,231,542
+4089,222,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.2,4/222,98.2,4/222,383,1,312,222,533
+4091,229,855,855_7359 ,Kytococcus sedentarius | HOT_855 | Strain_CV91 | GB_AJ717359 | Named | G | 1,98.3,4/229,98.3,4/229,396,1,312,229,540
+4182,229,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/229,100,0/229,414,1,313,229,541
+4183,230,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/230,100,0/230,416,1,313,230,542
+4184,228,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/228,100,0/228,412,1,313,228,540
+4205,220,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.5,1/220,99.5,1/220,392,1,281,220,500
+4206,220,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/220,100,0/220,398,1,281,220,500
+4239,276,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.6,1/276,99.6,1/276,493,1,281,276,556
+4240,278,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.6,1/278,99.6,1/278,497,1,281,278,558
+4263,259,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/259,100,0/259,468,1,281,259,539
+4297,299,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.3,2/299,99.3,2/299,531,1,281,299,579
+4299,298,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.3,2/298,99.3,2/298,529,1,281,298,578
+4300,297,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/295,99.7,1/295,527,1,281,295,575
+4310,298,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/298,100,0/298,538,1,281,298,578
+4313,299,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/299,100,0/299,540,1,281,299,579
+4337,277,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/277,100,0/277,500,1,281,277,557
+4338,276,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/276,100,0/276,499,1,281,276,556
+4341,278,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/278,100,0/278,502,1,281,278,558
+4370,288,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/288,100,0/288,520,1,281,288,568
+4372,286,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/286,100,0/286,517,1,281,286,566
+4374,285,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/285,100,0/285,515,1,281,285,565
+4393,300,683,683_8147 ,Simonsiella muelleri | HOT_683 | Strain_ATCC29453T | GB_AF328147 | Named | G | 4,92.6,22/299,92.6,22/299,441,1,315,299,613
+4397,298,683,683_8147 ,Simonsiella muelleri | HOT_683 | Strain_ATCC29453T | GB_AF328147 | Named | G | 4,92.6,22/298,92.6,22/298,439,1,315,298,612
+4406,235,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/235,100,0/235,425,1,313,235,547
+4407,236,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/236,100,0/236,426,1,313,236,548
+4408,238,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/238,100,0/238,430,1,313,238,550
+4409,237,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/237,100,0/237,428,1,313,237,549
+4426,235,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.9,19/236,92.7,17/234,333,1,314,235,548
+4427,236,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,92,19/237,92.8,17/235,334,1,314,236,549
+4428,238,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,92.1,19/239,92.8,17/237,338,1,314,238,551
+4429,237,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,92,19/238,92.8,17/236,336,1,314,237,550
+4449,237,032,032AZ002 ,Pseudomonas sp. | HOT_032 | Clone_AZ002 | GB_AF385547 | Phylotype | X | 1,96.2,9/237,96.2,9/237,387,1,307,237,543
+4469,236,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/236,100,0/236,426,1,307,236,542
+4471,238,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/238,100,0/238,430,1,307,238,544
+4472,235,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/235,100,0/235,425,1,307,235,541
+4473,237,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/237,100,0/237,428,1,307,237,543
+4494,242,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/242,100,0/242,437,1,307,242,548
+4495,240,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/240,100,0/240,434,1,307,240,546
+4498,239,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/239,100,0/239,432,1,307,239,545
+4510,242,032,032AZ002 ,Pseudomonas sp. | HOT_032 | Clone_AZ002 | GB_AF385547 | Phylotype | X | 1,96.3,9/242,96.3,9/242,396,1,307,242,548
+4512,240,032,032AZ002 ,Pseudomonas sp. | HOT_032 | Clone_AZ002 | GB_AF385547 | Phylotype | X | 1,96.3,9/240,96.3,9/240,392,1,307,240,546
+4521,239,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/239,99.6,1/239,426,1,279,239,517
+4523,241,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/241,99.6,1/241,430,1,279,241,519
+4524,240,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/240,99.6,1/240,428,1,279,240,518
+4539,242,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/242,97.1,7/242,405,1,281,242,522
+4540,240,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/240,97.1,7/240,401,1,281,240,520
+4541,240,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,96.7,8/240,96.7,8/240,398,1,281,240,520
+4542,241,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/241,97.1,7/241,403,1,281,241,521
+4544,239,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.1,7/239,97.1,7/239,399,1,281,239,519
+4560,275,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,176,787,202,813
+4562,276,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,176,787,202,813
+4581,276,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/276,99.6,1/276,493,1,279,276,554
+4584,275,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/275,99.6,1/275,491,1,279,275,553
+4597,266,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/266,99.6,1/266,475,1,279,266,544
+4598,265,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/265,99.6,1/265,473,1,279,265,543
+4606,253,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/253,99.6,1/253,452,1,279,253,531
+4611,254,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/254,99.6,1/254,453,1,279,254,532
+4630,289,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.3,2/289,99.3,2/289,513,1,279,289,567
+4631,285,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.3,2/285,99.3,2/285,506,1,279,285,563
+4651,272,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/272,97.4,7/272,459,1,281,272,552
+4652,274,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/274,97.4,7/274,462,1,281,274,554
+4653,273,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/273,97.4,7/273,461,1,281,273,553
+4673,257,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/257,97.3,7/257,432,1,281,257,537
+4676,256,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/256,97.3,7/256,430,1,281,256,536
+4678,255,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/255,97.3,7/255,428,1,281,255,535
+4706,263,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/263,97.3,7/263,443,1,281,263,543
+4707,264,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/264,97.3,7/264,444,1,281,264,544
+4720,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,96.7,10/300,96.7,10/300,497,1,281,300,580
+4721,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97,9/300,97,9/300,500,1,281,300,580
+4743,297,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/295,97.3,8/295,497,1,281,295,575
+4744,296,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/295,97.3,8/295,497,1,281,295,575
+4756,292,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/292,97.3,8/292,491,1,281,292,572
+4759,291,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/291,97.3,8/291,489,1,281,291,571
+4781,266,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+4782,267,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+4796,261,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+4800,258,938,938_0337 ,Lactobacillus reuteri genosp. 2 | HOT_938 | Strain_K16 | GB_KC700337 | Named | X | 0,100,0/27,100,0/27,50,180,787,206,813
+4818,279,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/279,100,0/279,504,1,307,279,585
+4840,300,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/300,100,0/300,542,1,307,300,606
+4841,298,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/298,100,0/298,538,1,307,298,604
+4858,300,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,98.3,5/300,98.3,5/300,518,1,307,300,606
+4861,300,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,98.7,4/300,98.7,4/300,524,1,307,300,606
+4873,300,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,96,12/300,96,12/300,488,1,307,300,606
+4874,298,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,96,12/298,96,12/298,484,1,307,298,604
+4885,245,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/245,100,0/245,443,1,313,245,557
+4886,243,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/243,100,0/243,439,1,313,243,555
+4887,244,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/244,100,0/244,441,1,313,244,556
+4905,249,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,92,20/250,92.7,18/248,354,1,313,249,561
+4908,251,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,92.1,20/252,92.8,18/250,358,1,313,251,563
+4920,245,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.9,20/246,92.6,18/244,347,1,314,245,558
+4921,243,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.8,20/244,92.6,18/242,343,1,314,243,556
+4924,244,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.8,20/245,92.6,18/243,345,1,314,244,557
+4936,260,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+4937,259,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+4938,257,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.7,21/253,92.4,19/251,354,1,314,252,565
+4941,258,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,22/259,92.2,20/257,361,1,313,258,570
+4956,253,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,92.1,20/252,92.8,18/250,358,1,313,251,563
+4957,254,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.8,21/255,92.5,19/253,358,1,313,254,566
+4972,279,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,24/280,92.1,22/278,390,1,313,279,591
+4974,278,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,24/279,92.1,22/277,389,1,313,278,590
+4989,265,027,027_5039 ,Cupriavidus gilardii | HOT_027 | Strain_C37KA | GB_AY005039 | Named | X | 2,91.5,22/258,91.5,22/258,367,1,305,258,562
+4990,266,027,027_5039 ,Cupriavidus gilardii | HOT_027 | Strain_C37KA | GB_AY005039 | Named | X | 2,91.5,22/258,91.5,22/258,367,1,305,258,562
+4991,264,027,027_5039 ,Cupriavidus gilardii | HOT_027 | Strain_C37KA | GB_AY005039 | Named | X | 2,91.5,22/258,91.5,22/258,367,1,305,258,562
+5006,297,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.3,26/298,91.9,24/296,414,1,313,297,609
+5007,296,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.2,26/296,91.8,24/294,410,1,314,295,608
+5020,300,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,26/301,92,24/299,419,1,313,300,612
+5021,300,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91,27/301,91.6,25/299,414,1,313,300,612
+5022,300,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91,27/299,91.6,25/297,410,1,314,298,611
+5037,292,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,25/292,92.1,23/290,407,1,313,291,603
+5039,290,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,25/291,92,23/289,405,1,313,290,602
+5041,291,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,25/292,92.1,23/290,407,1,313,291,603
+5063,262,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/262,100,0/262,473,1,313,262,574
+5064,261,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/261,100,0/261,471,1,313,261,573
+5104,254,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/254,100,0/254,459,1,313,254,566
+5105,256,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/256,100,0/256,462,1,313,256,568
+5125,289,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/289,100,0/289,522,1,313,289,601
+5127,292,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/292,100,0/292,527,1,313,292,604
+5128,290,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/290,100,0/290,524,1,313,290,602
+5149,229,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/229,100,0/229,414,1,281,229,509
+5150,229,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/229,99.6,1/229,408,1,281,229,509
+5166,227,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/227,100,0/227,410,1,281,227,507
+5167,227,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/227,99.6,1/227,405,1,281,227,507
+5193,226,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/226,100,0/226,408,1,281,226,506
+5194,224,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/224,99.6,1/224,399,1,281,224,504
+5195,225,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/225,99.6,1/225,401,1,281,225,505
+5197,226,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/226,99.6,1/226,403,1,281,226,506
+5198,225,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/225,100,0/225,407,1,281,225,505
+5199,224,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/224,100,0/224,405,1,281,224,504
+5226,228,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/228,99.6,1/228,407,1,281,228,508
+5227,228,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/228,100,0/228,412,1,281,228,508
+5244,232,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/232,99.6,1/232,414,1,281,232,512
+5245,231,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/231,99.6,1/231,412,1,281,231,511
+5246,232,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/232,100,0/232,419,1,281,232,512
+5247,234,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/234,100,0/234,423,1,281,234,514
+5249,233,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/233,100,0/233,421,1,281,233,513
+5250,234,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/234,99.6,1/234,417,1,281,234,514
+5252,233,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/233,99.6,1/233,416,1,281,233,513
+5282,222,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/222,100,0/222,401,1,311,222,532
+5283,226,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/226,100,0/226,408,1,311,226,536
+5284,223,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/223,100,0/223,403,1,311,223,533
+5286,225,530,530_5256 ,Propionibacterium acnes | HOT_530 | Strain_63597 | GB_AF145256 | Named | G | 4,100,0/225,100,0/225,407,1,311,225,535
+5299,234,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/234,99.6,1/234,417,1,279,234,512
+5302,233,544,544_4398 ,Ochrobactrum anthropi | HOT_544 | Strain_LMG 3331 | GB_AM114398 | Named | G | 1,99.6,1/233,99.6,1/233,416,1,279,233,511
+5311,231,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/231,97.4,6/231,390,1,281,231,511
+5312,232,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/232,97.4,6/232,392,1,281,232,512
+5313,234,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/234,97.4,6/234,396,1,281,234,514
+5316,233,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/233,97.4,6/233,394,1,281,233,513
+5335,222,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/222,97.3,6/222,374,1,281,222,502
+5338,224,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/224,97.3,6/224,378,1,281,224,504
+5355,227,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/227,97.4,6/227,383,1,281,227,507
+5356,226,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,6/226,97.3,6/226,381,1,281,226,506
+5373,230,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.8,19/231,92.6,17/229,324,1,314,230,543
+5376,229,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.7,19/230,92.5,17/228,322,1,314,229,542
+5377,231,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.8,19/232,92.6,17/230,325,1,314,231,544
+5395,234,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/234,100,0/234,423,1,307,234,540
+5396,229,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/229,100,0/229,414,1,307,229,535
+5398,231,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/231,100,0/231,417,1,307,231,537
+5399,230,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/230,100,0/230,416,1,307,230,536
+5415,234,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/234,100,0/234,423,1,313,234,546
+5416,231,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/231,100,0/231,417,1,313,231,543
+5417,233,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/233,100,0/233,421,1,313,233,545
+5436,225,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/225,100,0/225,407,1,313,225,537
+5437,223,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/223,100,0/223,403,1,313,223,535
+5438,224,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/224,100,0/224,405,1,313,224,536
+5440,222,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/222,100,0/222,401,1,313,222,534
+5462,279,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.6,1/279,99.6,1/279,499,1,281,279,559
+5463,281,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.6,1/281,99.6,1/281,502,1,281,281,561
+5481,257,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/257,99.6,1/257,459,1,281,257,537
+5483,257,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/257,100,0/257,464,1,281,257,537
+5495,253,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/253,99.6,1/253,452,1,281,253,533
+5496,252,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/252,100,0/252,455,1,281,252,532
+5500,253,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/253,100,0/253,457,1,281,253,533
+5501,254,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/254,99.6,1/254,453,1,281,254,534
+5503,254,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/254,100,0/254,459,1,281,254,534
+5536,262,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/262,99.6,1/262,468,1,281,262,542
+5539,263,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/263,100,0/263,475,1,281,263,543
+5540,263,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/263,99.6,1/263,470,1,281,263,543
+5541,264,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/264,100,0/264,477,1,281,264,544
+5563,258,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/258,100,0/258,466,1,281,258,538
+5564,258,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/258,99.6,1/258,461,1,281,258,538
+5576,295,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/295,99.7,1/295,527,1,281,295,575
+5577,294,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/294,99.7,1/294,526,1,281,294,574
+5580,292,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,99.7,1/292,99.7,1/292,522,1,281,292,572
+5605,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.3,2/300,99.3,2/300,533,1,281,300,580
+5606,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.7,7/300,97.7,7/300,509,1,281,300,580
+5624,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/300,100,0/300,542,1,281,300,580
+5625,300,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.7,1/300,99.7,1/300,536,1,281,300,580
+5640,297,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/297,100,0/297,536,1,281,297,577
+5641,296,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/296,100,0/296,535,1,281,296,576
+5653,295,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/295,100,0/295,533,1,281,295,575
+5654,294,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/294,100,0/294,531,1,281,294,574
+5655,293,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/293,100,0/293,529,1,281,293,573
+5656,292,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/292,100,0/292,527,1,281,292,572
+5670,282,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/282,100,0/282,509,1,281,282,562
+5671,281,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/281,100,0/281,508,1,281,281,561
+5672,279,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/279,100,0/279,504,1,281,279,559
+5674,280,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/280,100,0/280,506,1,281,280,560
+5693,269,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/269,100,0/269,486,1,281,269,549
+5698,270,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/270,100,0/270,488,1,281,270,550
+5713,289,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/289,100,0/289,522,1,281,289,569
+5715,290,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/290,100,0/290,524,1,281,290,570
+5727,237,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.5,6/237,97.5,6/237,401,1,307,237,543
+5728,238,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,97.5,6/238,97.5,6/238,403,1,307,238,544
+5741,276,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/274,97.4,7/274,462,1,281,274,554
+5742,277,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.1,8/277,97.1,8/277,464,1,281,277,557
+5743,275,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/274,97.4,7/274,462,1,281,274,554
+5774,270,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/270,97.4,7/270,455,1,281,270,550
+5776,268,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,7/266,97.4,7/266,448,1,281,266,546
+5777,271,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.4,7/271,97.4,7/271,457,1,281,271,551
+5779,267,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,7/266,97.4,7/266,448,1,281,266,546
+5796,262,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/262,97.3,7/262,441,1,281,262,542
+5797,258,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/258,97.3,7/258,434,1,281,258,538
+5798,259,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/259,97.3,7/259,435,1,281,259,539
+5800,261,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.3,7/261,97.3,7/261,439,1,281,261,541
+5819,254,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/254,97.2,7/254,426,1,281,254,534
+5820,253,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/253,97.2,7/253,425,1,281,253,533
+5823,252,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.2,7/252,97.2,7/252,423,1,281,252,532
+5842,289,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/289,97.2,8/289,486,1,281,289,569
+5846,286,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/286,97.2,8/286,480,1,281,286,566
+5857,294,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/294,97.3,8/294,495,1,281,294,574
+5861,295,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.3,8/295,97.3,8/295,497,1,281,295,575
+5899,294,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.2,26/295,91.8,24/293,408,1,314,294,607
+5900,295,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.2,26/296,91.8,24/294,410,1,314,295,608
+5911,289,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.4,25/290,92,23/288,403,1,313,289,601
+5912,282,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.5,24/281,92.1,22/279,392,1,313,280,592
+5914,285,406,406AK168 ,Ralstonia sp. | HOT_406 | Clone_AK168 | GB_AY005032 | Phylotype | X | 1,91.3,25/286,91.9,23/284,396,1,313,285,597
+5926,265,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/265,100,0/265,479,1,313,265,577
+5927,266,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/266,100,0/266,480,1,313,266,578
+5928,264,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/264,100,0/264,477,1,313,264,576
+5944,276,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/276,100,0/276,499,1,313,276,588
+5945,275,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/275,100,0/275,497,1,313,275,587
+5960,258,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/258,100,0/258,466,1,313,258,570
+5961,257,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/257,100,0/257,464,1,313,257,569
+5973,253,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/253,100,0/253,457,1,313,253,565
+5975,252,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/252,100,0/252,455,1,313,252,564
+5992,295,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/295,100,0/295,533,1,313,295,607
+5993,293,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/293,100,0/293,529,1,313,293,605
+5994,294,854,854_3152 ,Ralstonia pickettii | HOT_854 | Strain_ATCC 27511 | GB_NR_043152 | Named | G | 0,100,0/294,100,0/294,531,1,313,294,606
+6009,222,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/222,100,0/222,401,1,281,222,502
+6010,223,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/223,100,0/223,403,1,281,223,503
+6024,231,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/231,100,0/231,417,1,281,231,511
+6025,230,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/230,100,0/230,416,1,281,230,510
+6038,230,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/230,97.4,6/230,389,1,281,230,510
+6039,229,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,97.4,6/229,97.4,6/229,387,1,281,229,509
+6055,223,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.5,19/224,92.3,17/222,311,1,314,223,536
+6056,224,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.6,19/225,92.4,17/223,313,1,314,224,537
+6075,233,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.9,19/234,92.7,17/232,329,1,314,233,546
+6076,234,020,020_1395 ,Neisseria sp. | HOT_020 | Clone_069085_216 | GB_JQ451395 | Unnamed | G | 3,91.9,19/235,92.7,17/233,331,1,314,234,547
+6093,256,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/256,100,0/256,462,1,281,256,536
+6094,255,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/255,100,0/255,461,1,281,255,535
+6109,265,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/265,99.6,1/265,473,1,281,265,545
+6111,266,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,99.6,1/266,99.6,1/266,475,1,281,266,546
+6123,266,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/266,100,0/266,480,1,281,266,546
+6125,265,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/265,100,0/265,479,1,281,265,545
+6141,262,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/262,100,0/262,473,1,281,262,542
+6142,261,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/261,100,0/261,471,1,281,261,541
+6157,283,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/283,100,0/283,511,1,281,283,563
+6158,284,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/284,100,0/284,513,1,281,284,564
+6173,275,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/275,100,0/275,497,1,281,275,555
+6176,274,003,003_0566 ,Sphingomonas echinoides | HOT_003 | Clone_nby481c06c1 | GB_HM830566 | Named | X | 1,100,0/274,100,0/274,495,1,281,274,554
+6190,267,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,100,0/266,100,0/266,480,1,281,266,546
+6192,268,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,100,0/266,100,0/266,480,1,281,266,546
+6207,284,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/284,97.2,8/284,477,1,281,284,564
+6208,285,004,004_9487 ,Sphingomonas sp. | HOT_004 | Clone_nby660h11c1 | GB_HM839487 | Phylotype | X | 1,97.2,8/285,97.2,8/285,479,1,281,285,565
+6230,254,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/254,100,0/254,459,1,307,254,560
+6233,253,612,612_4476 ,Pseudomonas fluorescens | HOT_612 | Strain_ATCC 13525 | GB_NR_114476 | Named | G | 2,100,0/253,100,0/253,457,1,307,253,559
