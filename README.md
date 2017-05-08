@@ -16,6 +16,8 @@ The MED and HOMD alignment result files can be found in the "MEDoutput" folder.
    
 The file containing my proposal is titled as "Big data Proposal" and is a pdf document.
 
+The file "Blood microbiome Plasma vs buffy coat.ipynb" is a jupyter notebook and contains all the work that I did in order to obtain my results.
 
+The files "plasmabc.csv" and "plasmabc.txt" are the files required for LefSe analysis. plasmabc.csv was obtained via my workflow listed in "Blood microbime Plasma vs buffy coat.ipynb". plasmabc.txt is just a file conversion as this format is what is required by LeFse analysis.    
 
 
