@@ -20,4 +20,5 @@ The file "Blood microbiome Plasma vs buffy coat.ipynb" is a jupyter notebook and
 
 The files "plasmabc.csv" and "plasmabc.txt" are the files required for LefSe analysis. plasmabc.csv was obtained via my workflow listed in "Blood microbime Plasma vs buffy coat.ipynb". plasmabc.txt is just a file conversion as this format is what is required by LeFse analysis.    
 
+I wrote my proposal using MS word and converted the file into a PDF, both files are part of this repository
 
